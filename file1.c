@@ -1,7 +1,7 @@
 #include<stdio.h>
-void main()
+int main()
 {
   printf("Hello World from Jenkins.");
   printf("Aaya Kya?");
-  exit 0;
+  exit (0);
 }
